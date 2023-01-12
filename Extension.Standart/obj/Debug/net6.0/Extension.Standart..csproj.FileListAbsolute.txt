@@ -1,0 +1,15 @@
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\bin\Debug\net6.0\Extension.Standart..exe
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\bin\Debug\net6.0\Extension.Standart..deps.json
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\bin\Debug\net6.0\Extension.Standart..runtimeconfig.json
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\bin\Debug\net6.0\Extension.Standart..dll
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\bin\Debug\net6.0\Extension.Standart..pdb
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..csproj.AssemblyReference.cache
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..AssemblyInfoInputs.cache
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..AssemblyInfo.cs
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..csproj.CoreCompileInputs.cache
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..dll
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\refint\Extension.Standart..dll
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..pdb
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\Extension.Standart..genruntimeconfig.cache
+C:\Users\Asery_valha\source\repos\Extension.Standart\Extension.Standart\obj\Debug\net6.0\ref\Extension.Standart..dll
